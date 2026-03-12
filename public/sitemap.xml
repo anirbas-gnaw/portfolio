@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://sabrina-wang.org/projects/</loc>
     <lastmod>2026-03-11T23:23:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sabrina-wang.org/</loc>
     <lastmod>2026-03-11T23:23:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/share_or_fare/</loc>
+    <loc>https://sabrina-wang.org/projects/share_or_fare/</loc>
     <lastmod>2026-03-11T23:23:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/mondernize_transit/</loc>
+    <loc>https://sabrina-wang.org/projects/mondernize_transit/</loc>
     <lastmod>2024-11-18T23:23:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://sabrina-wang.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://sabrina-wang.org/tags/</loc>
   </url>
 </urlset>

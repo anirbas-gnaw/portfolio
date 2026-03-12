@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sabrina Wang</title>
-    <link>http://localhost:1313/</link>
+    <link>https://sabrina-wang.org/</link>
     <description>Recent content on Sabrina Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Mar 2026 23:23:28 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sabrina-wang.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Share or Fare: Analysis of Rideshare in Chicago</title>
-      <link>http://localhost:1313/projects/share_or_fare/</link>
+      <link>https://sabrina-wang.org/projects/share_or_fare/</link>
       <pubDate>Wed, 11 Mar 2026 23:23:28 -0500</pubDate>
-      <guid>http://localhost:1313/projects/share_or_fare/</guid>
+      <guid>https://sabrina-wang.org/projects/share_or_fare/</guid>
       <description>&lt;p&gt;Share or fare is a project exploring rideshare data in Chigago, focusing on the transit alternatives for rideshare trips.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/J_djvWmZGAU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/uchicago-2026-capp30122/project-share-or-fare&#34;&gt;Github Repo&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Modernizing U.S. Public Transportation</title>
-      <link>http://localhost:1313/projects/mondernize_transit/</link>
+      <link>https://sabrina-wang.org/projects/mondernize_transit/</link>
       <pubDate>Mon, 18 Nov 2024 23:23:28 -0500</pubDate>
-      <guid>http://localhost:1313/projects/mondernize_transit/</guid>
+      <guid>https://sabrina-wang.org/projects/mondernize_transit/</guid>
       <description>&lt;h3 id=&#34;the-question&#34;&gt;The Question&lt;/h3&gt;&#xA;&lt;p&gt;What infrastructure policies should the U.S.adopt to catch up to other developed nations in terms of the availability and reliability of regional and national public transportation, such as high-speed rail?&lt;/p&gt;&#xA;&lt;h3 id=&#34;spoiler-alert-the-reccomendation&#34;&gt;Spoiler Alert: The Reccomendation&lt;/h3&gt;&#xA;&lt;p&gt;The  report recommends that the Department of Transportation prioritize the development  of  urban  subway  and  light  rail  where  appropriate,  and  promote transit-oriented design in city planning.&lt;/p&gt;&#xA;&lt;h3 id=&#34;alternatives&#34;&gt;Alternatives&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Expand Amtrak Routes&lt;/li&gt;&#xA;&lt;li&gt;Establish Urban Subway lines, Light Rail or Bus Systems&lt;/li&gt;&#xA;&lt;li&gt;Incorporate the concept of Transit Oriented Designs in City Planning&lt;/li&gt;&#xA;&lt;li&gt;Adopt Pedestrian-Bicyclist-Friendly Designs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;criteria&#34;&gt;Criteria&lt;/h3&gt;&#xA;&lt;p&gt;We evaulated each possible alternative using the following criteria&lt;/p&gt;</description>
     </item>
   </channel>
