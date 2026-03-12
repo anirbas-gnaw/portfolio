@@ -1,8 +1,24 @@
 baseURL = 'https://sabrina-wang.org/'
 languageCode = 'en-us'
 title = 'Sabrina Wang'
-theme = 'paper'
+theme = ["hugo-embed-pdf-shortcode", "paper"]
+enableInlineShortcodes = true
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params]
+  # color style
+  # color = 'blue'                         # linen, wheat, gray, light
+  #color='#d8e8ff'
+
+  github = 'anirbas-gnaw'
+  linkedin = 'sabrina-wang-192150150'
+  
+  name = 'Sabrina Wang'
+  bio = 'Engineer and creator'
+
+  favicon = "mono-transparent.png"                  # customize the default favicon
+  appleTouchIcon = "mono-transparent.png"           # customize the default Apple touch icon
+  monoDarkIcon = false
