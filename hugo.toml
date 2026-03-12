@@ -16,8 +16,8 @@ enableInlineShortcodes = true
   github = 'anirbas-gnaw'
   linkedin = 'sabrina-wang-192150150'
   
-  name = 'Sabrina Wang'
-  bio = 'Engineer and creator'
+  #name = 'Sabrina Wang'
+  #bio = 'Engineer and creator'
 
   favicon = "mono-transparent.png"                  # customize the default favicon
   appleTouchIcon = "mono-transparent.png"           # customize the default Apple touch icon
