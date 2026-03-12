@@ -1,0 +1,4 @@
+baseURL = 'https://sabrina-wang.org/'
+languageCode = 'en-us'
+title = 'Sabrina Wang'
+theme = 'paper'
